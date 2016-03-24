@@ -1,1 +1,56 @@
 
+
+#logobar {
+    height: 185px;
+    background-color: grey;
+    width: auto;
+    box-shadow: 0px 10px 20px #aaa;
+}
+
+#logoimg {
+    height: 150px;
+    width: 150px;
+    border-radius: 26px;
+}
+
+.title {
+    color:orange;
+}
+
+h1{
+    text-align: center;
+    font-family: Courier, Serif, sans-serif;
+    font-size: 30px;
+    color: white;
+    margin: auto;    
+}
+
+#provisoire{
+    font-family: verdana;
+    font-style: italic;
+    font-size: 20px;
+    color: grey;
+}
+
+a{
+    text-decoration: none;
+    font-family: verdana;
+    color:white;
+    font-size: 25px;
+}
+
+.togglebar{
+    color: white;
+}
+
+.togglebar:hover{
+    color:orange;
+    background-color: white;
+}
+
+a{
+    border-style: solid;
+    border-width: 2px;
+    border-radius:5px;
+    border-color: white;
+}
